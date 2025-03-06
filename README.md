@@ -1,4 +1,4 @@
-Installe todas as dependências com _npm i_
+Instale todas as dependências com _npm i_
 
 Insira login e senha no arquivo **mirante.spec.ts**.
 
